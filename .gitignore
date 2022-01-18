@@ -24,3 +24,6 @@ rubik-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Ignore OS files
+.DS_Store
